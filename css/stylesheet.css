@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
+header {
+  background-color: beige;
+}
+
+nav {
+  background-color: burlywood;
+}
+
+main {
+  background-color: rosybrown;
+  font-size: 16px;
+}
+
+footer {
+  background-color: darksalmon;
+}
+
+li {
+  display: inline-block;
+  width: 400px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: brown;
+}
+
+p {
+  line-height: 15px;
+}
